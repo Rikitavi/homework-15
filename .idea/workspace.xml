@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bcbc243-ff1d-4e5b-aebb-374e1d2b2ebc" name="Default Changelist" comment="" />
+    <list default="true" id="8bcbc243-ff1d-4e5b-aebb-374e1d2b2ebc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework-15/ru/mukhmetzyanov/task2/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework-15/ru/mukhmetzyanov/task2/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mukhmetzyanov/task2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mukhmetzyanov/task2/Task2.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,22 +29,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gitignote" value="1" />
           <entry key="java" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="7" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3399" />
+          <entry key="gitignote" value="33" />
+          <entry key="java" value="4432" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3399" />
+          <entry key="JAVA" value="4432" />
+          <entry key="PLAIN_TEXT" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -53,20 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ru/mukhmetzyanov/task2/Task2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/mukhmetzyanov/task1/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -80,6 +77,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -89,6 +89,7 @@
         <option value="$PROJECT_DIR$/src/ru/mukhmetzyanov/task2/Recursion.java" />
         <option value="$PROJECT_DIR$/src/ru/mukhmetzyanov/task2/Test.java" />
         <option value="$PROJECT_DIR$/src/ru/mukhmetzyanov/task2/Task2test.java" />
+        <option value="$PROJECT_DIR$/.gitignote" />
         <option value="$PROJECT_DIR$/src/ru/mukhmetzyanov/task2/Task2.java" />
       </list>
     </option>
@@ -118,6 +119,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -166,7 +168,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538662369510" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538667376465" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -273,12 +275,12 @@
       <workItem from="1538563728338" duration="5560000" />
       <workItem from="1538573913504" duration="6337000" />
       <workItem from="1538585699615" duration="1726000" />
-      <workItem from="1538661943415" duration="257000" />
+      <workItem from="1538661943415" duration="4847000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22040000" />
+    <option name="totallyTimeSpent" value="26630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -293,8 +295,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3477707" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3477707" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -337,20 +339,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/mukhmetzyanov/task2/Task2test.java" />
     <entry file="file://$PROJECT_DIR$/src/ru/mukhmetzyanov/task2/Recursion.java" />
-    <entry file="file://$PROJECT_DIR$/src/ru/mukhmetzyanov/task2/Task2.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        <state relative-caret-position="45">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/mukhmetzyanov/task1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
+        <state relative-caret-position="915">
           <caret line="61" selection-start-line="61" selection-end-line="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/mukhmetzyanov/task2/Task2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
         </state>
       </provider>
     </entry>
